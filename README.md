@@ -7,23 +7,23 @@ The AI BI SaaS Platform is a cutting-edge, cloud-based solution designed to empo
 
 ## Key Features
 
-- SQL Agent: Generate complex SQL queries through natural language input, simplifying data retrieval and analysis for users of all technical backgrounds.
-- Forecasting Capabilities: Utilize AI-driven forecasting models to predict future trends and outcomes based on historical data, helping businesses make informed decisions.
-- Interactive Charting: Visualize data trends and patterns with dynamic charts, making data interpretation intuitive and accessible.
-- User-Friendly Interface: Built with Next.js and Shadcn for a seamless and responsive user experience, ensuring that users can navigate the platform effortlessly.
-- Robust Authentication: Secure user access with Auth.js, ensuring that sensitive data remains protected while providing a personalized experience.
-- Flexible Database Support: Choose from Neon DB, Firebase, or Supabase for a reliable and scalable data storage solution.
-- Subscription Management: Integrate Stripe for easy payment processing and subscription management, allowing users to manage their accounts with ease.
+- **SQL Agent:** Generate complex SQL queries through natural language input, simplifying data retrieval and analysis for users of all technical backgrounds.
+- **Forecasting Capabilities:** Utilize AI-driven forecasting models to predict future trends and outcomes based on historical data, helping businesses make informed decisions.
+- **Interactive Charting:** Visualize data trends and patterns with dynamic charts, making data interpretation intuitive and accessible.
+- **User-Friendly Interface:** Built with Next.js and Shadcn for a seamless and responsive user experience, ensuring that users can navigate the platform effortlessly.
+- **Robust Authentication:** Secure user access with Auth.js, ensuring that sensitive data remains protected while providing a personalized experience.
+- **Flexible Database Support:** Choose from Neon DB, Firebase, or Supabase for a reliable and scalable data storage solution.
+- **Subscription Management:** Integrate Stripe for easy payment processing and subscription management, allowing users to manage their accounts with ease.
 
 ## Technologies Used
 
-- Frontend: Next.js, TypeScript, Tailwind CSS
-- Backend: Langchain, OpenAI
-- Database: Neon DB, Firebase, or Supabase
-- Authentication: Auth.js
-- Payment Processing: Stripe API
-- File Uploads: UploadThing or JavaScript
-- Deployment: Vercel
+- **Frontend:** Next.js, TypeScript, Tailwind CSS
+- **Backend:** Langchain, OpenAI
+- **Database:** Neon DB, Firebase, or Supabase
+- **Authentication:** Auth.js
+- **Payment Processing:** Stripe API
+- **File Uploads:** UploadThing or JavaScript
+- **Deployment:** Vercel
 
 ## Vision
 
