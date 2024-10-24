@@ -1,0 +1,10 @@
+#!/bash/sh
+
+# Run tests before commiting
+npm run test
+
+# Run lint before commiting
+npm run lint    
+
+# Run build before commiting
+npm run build   
